@@ -164,3 +164,12 @@ form {
     opacity: 0.9;
     margin: 0% 18% 0 18%;
 }
+
+
+.coded {
+    color: #ffff;
+    opacity: .6;
+    display: block;
+    text-align: center;
+    padding: 53% 0 0 0;
+}
